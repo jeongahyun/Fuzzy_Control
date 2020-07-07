@@ -9,7 +9,7 @@
 when temperature is 28 Celsius degree and 67% humidity,
 ![fig2.png](./imgs/fig2.png)
 ![fig3.png](./imgs/fig3.png)
-![output](./imgs/output.png)
+![output](./imgs/output.PNG)
 
 ### Instructions
 
